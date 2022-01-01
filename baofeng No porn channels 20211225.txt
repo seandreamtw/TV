@@ -1,4 +1,4 @@
-台灣,#genre#
+🇹🇼臺灣頻道,#genre#
 
 好消息電視台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 
